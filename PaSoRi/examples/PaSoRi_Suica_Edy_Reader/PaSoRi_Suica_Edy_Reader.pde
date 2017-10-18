@@ -1,7 +1,7 @@
-#include "Spi.h"
-#include "Usb.h"
+#include <Spi.h>
+#include <Usb.h>
 
-#include "PaSoRi.h"
+#include <PaSoRi.h>
 
 PaSoRi pasori;
 
